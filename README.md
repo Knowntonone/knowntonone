@@ -51,7 +51,7 @@ To leverage my cybersecurity knowledge, hands-on project experience, and certifi
 </div>
 
 ## Projects
-- **Automated Bug Bounty Workflow**: Developed a Raspberry Pi-based solution using Python to automate bug bounty tasks such as directory enumeration, subdomain discovery, and vulnerability scans, improving task efficiency by 50%.
+- **<a href="https://github.com/Knowntonone/Automating-bug-bounty">Automated Bug Bounty Workflow**</a>: Developed a Raspberry Pi-based solution using Python to automate bug bounty tasks such as directory enumeration, subdomain discovery, and vulnerability scans, improving task efficiency by 50%.
 - **Rubber Ducky Attack with Raspberry Pi Pico**: Executed a USB-based attack to extract saved Wi-Fi passwords from Windows systems and send the credentials to an attacker-controlled server.
 - **Evil Twin Attack using NodeMCU**: Implemented a rogue access point to mimic legitimate networks, capturing Wi-Fi credentials from unsuspecting users.
 
